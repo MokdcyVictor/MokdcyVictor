@@ -1,6 +1,6 @@
 ### Hi I'm João Victor Mokdcy 
 
-- 🌱 I’m currently learning java and JavaScript
+- 🌱 I’m currently learning mobile development
 - 😄 Pronouns: ele\dele
 
 <div align="center">
